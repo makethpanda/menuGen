@@ -1,0 +1,70 @@
+{
+    "beers": [
+        {
+            "name": "Chouffe",
+            "price": "5",
+            "desc": "6%"
+        },
+        {
+            "name": "Delirium",
+            "price": "5",
+            "desc": "8.5%"
+        },
+        {
+            "name": "Blanche des neiges",
+            "price": "4",
+            "desc": "7%"
+        },
+        {
+            "name": "Meteor",
+            "price": "3",
+            "desc": "7%"
+        }
+    ],
+    "cocktails": [
+        {
+            "name": "Monaco",
+            "price": "3,50",
+            "desc": "Bi\u00e8re + Limonade + Sirop"
+        },
+        {
+            "name": "Tango",
+            "price": "3,50",
+            "desc": "Bi\u00e8re + Sirop"
+        }
+    ],
+    "wines": [
+        {
+            "name": "Rose",
+            "price": "2",
+            "desc": ""
+        },
+        {
+            "name": "Rouge",
+            "price": "2",
+            "desc": ""
+        },
+        {
+            "name": "Blanc",
+            "price": "2",
+            "desc": ""
+        }
+    ],
+    "mocktails": [
+        {
+            "name": "Diabolo",
+            "price": "2",
+            "desc": "Limonade + Sirop"
+        },
+        {
+            "name": "Soft",
+            "price": "1",
+            "desc": "Jus - Sodas - Sirop"
+        },
+        {
+            "name": "Au choix",
+            "price": "3",
+            "desc": "Faites votre cocktail avec les disponibilit\u00e9es"
+        }
+    ]
+}

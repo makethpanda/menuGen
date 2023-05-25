@@ -1,0 +1,75 @@
+{
+    "beers": [
+        {
+            "name": "Délirium",
+            "price": "5",
+            "desc": ""
+        },
+        {
+            "name": "Blanche des neiges",
+            "price": "4",
+            "desc": ""
+        },
+        {
+            "name": "Meteor",
+            "price": "3",
+            "desc": ""
+        },
+        {
+            "name": "Chouffe",
+            "price": "4",
+            "desc": ""
+        }
+    ],
+    "cocktails": [
+        {
+            "name": "Monaco",
+            "price": "3,50",
+            "desc": "Bière + Limonade + Sirop"
+        },
+        {
+            "name": "Tango",
+            "price": "3,50",
+            "desc": "Bière + Sirop"
+        },
+        {
+            "name": "Kir",
+            "price": "3,50",
+            "desc": "Vin + Sirop"
+        }
+    ],
+    "wines": [
+        {
+            "name": "Rouge",
+            "price": "4",
+            "desc": "Supérieur"
+        },
+        {
+            "name": "Blanc",
+            "price": "4",
+            "desc": ""
+        }
+    ],
+    "mocktails": [
+        {
+            "name": "Arnak",
+            "price": "3",
+            "desc": "Jus cramberry + Sirop framboise + Pulco citron"
+        },
+        {
+            "name": "L'exotic",
+            "price": "3",
+            "desc": "Jus mangue + Jus orange + Sirop gingembre"
+        },
+        {
+            "name": "Diabolo",
+            "price": "1",
+            "desc": "Limonade + Sirop"
+        },
+        {
+            "name": "Soft",
+            "price": "1",
+            "desc": "Jus - Sodas - Sirop"
+        }
+    ]
+}
