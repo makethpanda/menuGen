@@ -16,3 +16,10 @@ The menuGen is a graphical user interface (GUI) based application designed to si
 ## Getting Started
 
 To get started with the Le Continental Menu Management System, follow these steps:
+
+1. download the latest release: 
+
+https://github.com/makethpanda/menuGen
+
+2. unzip the folder, and run menugen.exe
+
