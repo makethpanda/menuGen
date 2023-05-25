@@ -23,3 +23,4 @@ https://github.com/makethpanda/menuGen
 
 2. unzip the folder, and run menugen.exe
 
+<img width="200" alt="image" src="https://github.com/makethpanda/menuGen/assets/42862794/fad61150-7466-4b5f-9548-4459dba4ce9e">
